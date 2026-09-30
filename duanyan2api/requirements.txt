@@ -1,3 +1,0 @@
-requests>=2.28
-cryptography>=41.0
-pywin32>=306; sys_platform == "win32"
